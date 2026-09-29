@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+boto3
+requests
+openai
+langgraph
+python-dotenv
+sqlglot
+urllib3

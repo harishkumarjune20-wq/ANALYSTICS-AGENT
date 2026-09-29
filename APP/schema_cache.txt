@@ -1,0 +1,7 @@
+# Replace this template with the schema for the AWS Athena table you are authorized to query.
+# Format each column as: column_name DATA_TYPE
+# Optional: include a few representative, non-sensitive sample values.
+
+example_column VARCHAR
+example_metric DECIMAL(18,2)
+example_date DATE
