@@ -71,6 +71,9 @@ cs/
 │   ├── ollama_client.py
 │   └── schema_loader_athena.py
 ├── assets/
+│   ├──YOUR_LOGO.PNG 
+│   ├──YOUR_LOGO.PNG
+│   └──SIDE BAR BACK GROUND.PNG
 ├── app_1.py
 ├── config.py
 ├── requirements.txt
